@@ -1,0 +1,51 @@
+[{
+        "question": "¿Cuál es la pregunta?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 0
+    },
+    {
+        "question": "Which country has the wine making region known as the Barossa Valley?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 1
+    },
+    {
+        "question": "Where did Mulligatawny soup originate?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 1
+    },
+    {
+        "question": "Which country is the origin of the beef stew known as Daube?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 2
+    },
+    {
+        "question": "What fruit is traditionally used in an Eve's Pudding?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 3
+    },
+    {
+        "question": "If you were having a cocktail of Guinness and Champagne what would it be called?",
+        "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 2
+    },
+    {
+        "question": "In which country did Tea originate?",
+          "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 3
+    },
+    {
+        "question": "If you were in Australia and eating a 'sinker' what would you be having?",
+          "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 1
+    },
+    {
+        "question": "Clam Chowder originated in which country?",
+          "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 2
+    },
+    {
+        "question": "A macaroon is typically made using which nut?",
+         "answer": ["Uno", "Dos", "Tres", "Cuatro"],
+        "final": 0
+    }
+]
